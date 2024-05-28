@@ -48,6 +48,10 @@
         icon: /icons/pacs.png
         href: http://192.168.1.125/admin
         ping: http://192.168.1.125
+    - IPMI PVE:
+        icon: /icons/ipmi.png
+        href: http://192.168.1.160/
+        ping: http://192.168.1.160/
 
 - Network:
     - Server Poliklinika:
