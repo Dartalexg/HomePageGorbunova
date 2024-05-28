@@ -2,17 +2,27 @@
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/bookmarks
 
-- Developer:
+- Other:
     - Github:
         - abbr: GH
           href: https://github.com/
+    - RegRU: 
+        - abbr: RG
+          href: https://www.reg.ru/
+    - Shodan:
+        - abbr: SHD
+          href: https://www.shodan.io/
+    - ЛК охраны труда:
+        - abbr: ЛК ОТ
+          href: https://lkot.mintrud.gov.ru/
 
-- Social:
-    - Reddit:
-        - abbr: RE
-          href: https://reddit.com/
-
-- Entertainment:
-    - YouTube:
-        - abbr: YT
-          href: https://youtube.com/
+- Shop:
+    - Avito:
+        - abbr: AV
+          href: https://www.avito.ru/
+    - PlatiMarket:
+        - abbr: PM
+          href: https://plati.market/
+    - WMCentre:
+        - abbr: WC
+          href: https://wmcentre.net/
