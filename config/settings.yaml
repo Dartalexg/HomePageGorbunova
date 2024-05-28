@@ -1,7 +1,15 @@
 ---
 # For configuration options and examples, please see:
 # https://gethomepage.dev/latest/configs/settings
-
+headerStyle: boxedWidgets
+language: ru
+background:
+  image: https://kartinki.pics/pics/uploads/posts/2022-08/1661369043_18-kartinkin-net-p-futuristichnie-oboi-krasivo-27.jpg
+  blur: sm
+  #saturate: 50
+  #brightness: 50
+  #opacity: 50
 providers:
   openweathermap: openweathermapapikey
   weatherapi: weatherapiapikey
+  
