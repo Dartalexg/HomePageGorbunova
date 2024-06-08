@@ -10,9 +10,9 @@
         widget:
           type: proxmox
           url: https://192.168.1.153:8006
-          username: user-api-homepage@pam!homepage
-          password: 6117c412-4862-458f-8f70-cb6bdb9531af
-          node: pveckalova # optional
+          username: apihomepage@pam!apihomepage
+          password: e0c0e36a-2fe5-4a6e-a710-b9ee1b15771c
+          node: pvegorbunova # optional
     - ProxMox Mis:
         icon: proxmox.png
         href: http://10.204.18.249:8006
@@ -27,13 +27,13 @@
         ping: http://192.168.1.170
     - Portainer:
         icon: portainer.png
-        href: https://192.168.11.213:9443
-        ping: http://192.168.11.213
+        href: https://192.168.1.172:9443
+        ping: http://192.168.1.172
         widget:
           type: portainer
-          url: https://192.168.11.213:9443
-          env: 4
-          key: ptr_HlvSzea6bmm0Oo4ELC73+D0Vs9X/oj58Tv3D8jxznV4=
+          url: https://192.168.1.172:9443
+          env: 3
+          key: ptr_n8vAdc3Et9YLyw7dFQW73l4/alW6udemG8uYsS6xX6k=
     - OMV:
         icon: openmediavault.png
         href: http://192.168.1.234
