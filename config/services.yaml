@@ -122,3 +122,7 @@
     - ТФОМС:
         icon: /icons/tfoms.png
         href: https://zabtfoms.ru/register/findpolicy
+    - MEDESK:
+        icon: /icons/medesk.png
+        href: https://legacy.medesk.ru/client/
+        ping: https://legacy.medesk.ru
