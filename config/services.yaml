@@ -126,3 +126,13 @@
         icon: /icons/medesk.png
         href: https://legacy.medesk.ru/client/
         ping: https://legacy.medesk.ru
+    - Фарма Просто:
+        icon: /icons/mdlp.ico
+        href: https://ph.mdlp.crpt.ru/login
+    - Маркировка лекарственных препаратов:
+        icon: /icons/mdlp.ico
+        href: https://mdlp.crpt.ru/#/auth/signin
+    - Честный знак:
+        icon: /icons/mdlp.ico
+        href: https://честныйзнак.рф/
+    
