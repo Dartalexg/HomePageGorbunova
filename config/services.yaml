@@ -55,7 +55,7 @@
 
 - Network:
     - Server Poliklinika:
-        icon: /icons/qtech.png
+        icon: mikrotik.png
         href: http://192.168.1.2
         ping: http://192.168.1.2
     - 1etag Poliklinika:
@@ -80,12 +80,12 @@
         ping: http://192.168.1.7
     - 1 4etag Poliklinika:
         icon: /icons/qtech.png
-        href: http://192.168.1.8
-        ping: http://192.168.1.8
+        href: http://192.168.21.8
+        ping: http://192.168.21.8
     - 2 4etag Poliklinika:
         icon: /icons/qtech.png
-        href: http://192.168.1.9
-        ping: http://192.168.1.9
+        href: http://192.168.21.9
+        ping: http://192.168.21.9
 
 
 - Web:
